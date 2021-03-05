@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  z-index: -1;
+  padding: 40px;
+  margin:40px;
+  
+}
+
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.home img{
+ width:738px;
+ height:438px;
+ border-radius: 50%;
+}
+
+.paint img{
+  width:485px;
+  height:442px;
+
+}
+
+.paris img{
+  width:557px;
+  height:535px;
+}
+
+.tiers img{
+  width:545px;
+  height:505px;
+  border-radius: 50%;
+}
+
+h2{
+  font-family:'Orbitron', sans-serif; ;
+}
+
+
+html { 
+  background: url(./components/img/overlaybackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
