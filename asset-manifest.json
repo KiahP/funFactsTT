@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TokyoTowerFacts/static/css/main.6d625b6f.chunk.css",
+    "main.js": "/TokyoTowerFacts/static/js/main.22dbb9c3.chunk.js",
+    "main.js.map": "/TokyoTowerFacts/static/js/main.22dbb9c3.chunk.js.map",
+    "runtime-main.js": "/TokyoTowerFacts/static/js/runtime-main.4b431cc3.js",
+    "runtime-main.js.map": "/TokyoTowerFacts/static/js/runtime-main.4b431cc3.js.map",
+    "static/js/2.c7dfe3b3.chunk.js": "/TokyoTowerFacts/static/js/2.c7dfe3b3.chunk.js",
+    "static/js/2.c7dfe3b3.chunk.js.map": "/TokyoTowerFacts/static/js/2.c7dfe3b3.chunk.js.map",
+    "static/js/3.4c4dd814.chunk.js": "/TokyoTowerFacts/static/js/3.4c4dd814.chunk.js",
+    "static/js/3.4c4dd814.chunk.js.map": "/TokyoTowerFacts/static/js/3.4c4dd814.chunk.js.map",
+    "index.html": "/TokyoTowerFacts/index.html",
+    "static/css/main.6d625b6f.chunk.css.map": "/TokyoTowerFacts/static/css/main.6d625b6f.chunk.css.map",
+    "static/js/2.c7dfe3b3.chunk.js.LICENSE.txt": "/TokyoTowerFacts/static/js/2.c7dfe3b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TokyoTowerFacts/static/media/overlaybackground.57fb73cd.jpg",
+    "static/media/towerhome.e5387ba2.jpg": "/TokyoTowerFacts/static/media/towerhome.e5387ba2.jpg",
+    "static/media/towerpaint.2f66023a.jpg": "/TokyoTowerFacts/static/media/towerpaint.2f66023a.jpg",
+    "static/media/towerparis.5f13ce70.jpg": "/TokyoTowerFacts/static/media/towerparis.5f13ce70.jpg",
+    "static/media/towertier.e755640e.jpg": "/TokyoTowerFacts/static/media/towertier.e755640e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b431cc3.js",
+    "static/js/2.c7dfe3b3.chunk.js",
+    "static/css/main.6d625b6f.chunk.css",
+    "static/js/main.22dbb9c3.chunk.js"
+  ]
+}
